@@ -3,7 +3,7 @@ calculates similarity using machine learning (TF-IDF), and generates improvement
 using AI to help users optimize their resumes.
 
 Workflow Diagram
-![Project Screenshot of Dashboard]([AI Resume Optimizer.png])
+![Project Screenshot of Dashboard](ai-resume-optimizer/AIResumeOptimizer.png)
 
 
 # For demo, you can visit my website here: https://ai-resume-optimizer-axy5.onrender.com/
